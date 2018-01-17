@@ -36,25 +36,8 @@ test_time=time()-t0
 print("test time is : %0.3fs" %test_time)
 score=accuracy_score(labels_test,pred)
 print("The score is:%.3f" %score)
-#answer=pred[1700]
-#print(answer)
 ##find the number of chris'emails
-#count = 0
-#l=1
-
-#for x in pred:
- #   if (pred[l]==1):
-  #      count += 1
-   #     l += 1
-   # else:
-   #     continue
-
-#print(count)
-
 print(Counter(pred))
-#########################################################
-### your code goes here ###
 
-#########################################################
 
 
