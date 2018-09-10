@@ -1,0 +1,11 @@
+Prerequisites
+TPOT
+Sklearn
+Numpy
+seaborn
+Anaconda(Windows)1.6 latest stable release
+Spyder or PyCharm or any of python IDE's(VSCode)
+Python > 3.6
+Tensorflow > v1
+Matplotlib
+Pandas
