@@ -3,3 +3,6 @@ tpot
 Anaconda v3 and above
 Scikit-learn 0.19.1
 Python>=3.6
+gensim
+nltk
+pickle
