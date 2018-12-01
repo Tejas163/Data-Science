@@ -8,4 +8,4 @@ Data science project repo
 #You can obtain the dataset of Amazon from Kaggle https://www.kaggle.com/snap/amazon-fine-food-reviews/data or via kaggle api on kaggle cli:kaggle datasets download -d snap/amazon-fine-food-reviews  
 #5 Visualization of Sentiment Analysis(Reviews)[Postive/Negative] of t-SNE plots on Amazon food reviews dataset using different techniques like Bag-Of-Words,TF-IDF,Word2Vec(using Avg-W2Vec,Tf-IDF weighted W2Vec). Created a own Word2Vec model using gensim for the corpus.   
 #6 Running KNN,Naive Bayes, Logistic on Amazon Food Reviews dataset with vectorizers(BoW,Tf-IDF,AvgW2Vec,Tf-IDFWeightedW2Vec)
-Using GridSearch cross validation and Randomized cross validation for best/optimal hyperparameter selection
+  Using GridSearch cross validation and Randomized cross validation for best/optimal hyperparameter selection
