@@ -7,5 +7,5 @@ Data science project repo
 #Latex/MiniTex for converting from jupyter notebook to Pdf format or can do it by copying jupyter notebook to root folder of Anaconda installation and convert the notebook to pdf   
 #You can obtain the dataset of Amazon from Kaggle https://www.kaggle.com/snap/amazon-fine-food-reviews/data or via kaggle api on kaggle cli:kaggle datasets download -d snap/amazon-fine-food-reviews  
 #5 Visualization of Sentiment Analysis(Reviews)[Postive/Negative] of t-SNE plots on Amazon food reviews dataset using different techniques like Bag-Of-Words,TF-IDF,Word2Vec(using Avg-W2Vec,Tf-IDF weighted W2Vec). Created a own Word2Vec model using gensim for the corpus.   
-#6 Running KNN,Naive Bayes on Amazon Food Reviews dataset with finding optimal k-nearest neighbors and finding the accuracy score and optimal k for each of models(BoW,Tf-IDF,AvgW2Vec,Tf-IDFWeightedW2Vec)
-Using GridSearch and cross validation for best/optimal hyperparameter selection
+#6 Running KNN,Naive Bayes, Logistic on Amazon Food Reviews dataset with vectorizers(BoW,Tf-IDF,AvgW2Vec,Tf-IDFWeightedW2Vec)
+Using GridSearch cross validation and Randomized cross validation for best/optimal hyperparameter selection
