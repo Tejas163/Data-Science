@@ -1,4 +1,4 @@
-# Data-Science-Applied AI Course
+# Data-Science
 Data science project repo  
 #1 This project is of blood transfusion classification problem using TPOT and sklearn   
 #2 Classification project on people undergoing cryotherapy.  
